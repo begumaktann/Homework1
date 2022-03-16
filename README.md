@@ -1,7 +1,7 @@
 # Homework1
 Homework 1 of YZV103 class
 
-
+Question 1
 You will be given a list, assume the list will not be empty, consists of floats. You are required to compute some statistical values according to given definitions and formulas.
 
 Length: Number of elements in the list: 
